@@ -1,6 +1,6 @@
 [![MasterHead](https://www.lll.tum.de/wp-content/uploads/2021/09/TUM-Header-1920x600_DataScience.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ampavathina Manisha</h1>
-<h3 align="center">"Driven 3rd Year B.Tech Student with a Passion for Data Analysis | Power BI | SQL | Python Enthusiast"</h3>
+<h3 align="center">"UI/UX Designer & WordPress Developer | Canva Design Specialist | Crafting Seamless Digital Experiences | Skilled in Figma, Elementor, HTML/CSS"</h3>
 <img align="right" alt="Coding" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishamani8&label=Profile%20views&color=0e75b6&style=flat" alt="manishamani8" /> </p>
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **in data cleaning and preprocessing to ensure high data quality and accurate analysis results.**
 
-- 📫 How to reach me **ampavatinamanisha@gmail.com**
+- 📫 How to reach me **manishaaampavatinaa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
